@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[logo is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Caption is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Fotter links is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Forgotten password? is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Mail is displayed]]>
+    </line>
+    <line>
+      <![CDATA[pass is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Registration page is Varified]]>
+    </line>
+    <line>
+      <![CDATA[Registration page is Varified]]>
+    </line>
+    <line>
+      <![CDATA[varify_reg_mail]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11966" started-at="2022-08-14T15:12:12Z" finished-at="2022-08-14T15:12:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11966" started-at="2022-08-14T15:12:12Z" finished-at="2022-08-14T15:12:24Z">
+      <class name="com.FirstProject.qa.TestCases.Login_test">
+        <test-method status="PASS" signature="openingBrowser()" name="openingBrowser" is-config="true" duration-ms="3920" started-at="2022-08-14T15:12:12Z" finished-at="2022-08-14T15:12:16Z">
+        </test-method>
+        <test-method status="PASS" signature="varifyLoginPage()" name="varifyLoginPage" duration-ms="4244" started-at="2022-08-14T15:12:16Z" finished-at="2022-08-14T15:12:20Z">
+        </test-method>
+        <test-method status="PASS" signature="varifyReg_page()" name="varifyReg_page" duration-ms="634" started-at="2022-08-14T15:12:20Z" finished-at="2022-08-14T15:12:21Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="3153" started-at="2022-08-14T15:12:21Z" finished-at="2022-08-14T15:12:24Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-9ADAQ2G" name="com.FirstProject.qa.TestCases.Login_test" tests="2" failures="0" timestamp="14 Aug 2022 09:42:24 GMT" time="11.966" errors="0">
+  <testcase name="varifyLoginPage" time="4.244" classname="com.FirstProject.qa.TestCases.Login_test"/>
+  <testcase name="varifyReg_page" time="0.634" classname="com.FirstProject.qa.TestCases.Login_test"/>
+</testsuite>
